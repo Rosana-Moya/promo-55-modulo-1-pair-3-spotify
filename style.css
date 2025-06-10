@@ -19,9 +19,7 @@ header {
 }
 .containermadre {
     background-color: rgb(90, 188, 218);
-    /* padding: 50px; */
-    /* display: flex; */
-}
+    }
 
 .container1 {
     background-color: rgb(90, 188, 218);
@@ -41,4 +39,5 @@ h1 {
 }
 .escucha {
     color: white;
+    
 }
