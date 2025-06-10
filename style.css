@@ -1,0 +1,20 @@
+html {
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    margin: 0;
+    display: flex;
+    justify-content: space-between
+
+}
+
+.logo {
+    height: 20px;
+}
+
+.menu {
+    height: 20px;
+    
+}
