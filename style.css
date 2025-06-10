@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between
+}
+.logo {
+    height: 25px;
+}
+.menu {
+    height: 25px;
+    
+}
+.containermadre {
+    background-color: rgb(90, 188, 218);
+    /* padding: 50px; */
+    /* display: flex; */
+}
+
+.container1 {
+    background-color: rgb(90, 188, 218);
+    padding: 50px;
+    display: flex;
+    }
+h1 {
+    color: white;
+    padding: left 0;
+    font-size: 50px;
+    width: 100%;
+}
+
+.container2 {
+    background-color: rgb(90, 188, 218);
+    padding: 50px;
+}
+.escucha {
+    color: white;
+}
