@@ -19,14 +19,14 @@ header {
     
 }
 .containermadre {
-    background-color: #40B3FF;
+    background-color: #529cf1;
     font-family: sans-serif;
     padding: 10px;
     
 }
 
 .container1 {
-    background-color: #40B3FF;
+    background-color: #529cf1;
     display: flex;
     flex-direction: column;
 }
@@ -55,7 +55,7 @@ h1 {
     
 }
 .plans {
-    background-color: #1ED760;
+    background-color: #25b758;
     border-radius: 30px;
     border: none;
     color: white;
@@ -72,4 +72,17 @@ h1 {
     font-size: 10px;
     padding-top:15px;
     padding-bottom: 15px;
+}
+
+.containerpadre {
+    display: flex;
+    background-color: #fdfefd;
+    display: inline-flex;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
 }
